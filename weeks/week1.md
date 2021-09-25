@@ -2,11 +2,14 @@
 ## Batch-1 (Group-3)
 
 
-Quiz link
-......
+### Quiz link
 
-Assignment Detail ဖတ်ရန်
+[https://forms.gle/944VHZMMRUULJeyR7](https://forms.gle/944VHZMMRUULJeyR7)
+
+### Assignment Detail ဖတ်ရန်
+
 [Assignment 01](./w1_asm1.md)
 
-Assignment Link
-[https://forms.gle/G1brLhktqeuSE2hq6](https://forms.gle/G1brLhktqeuSE2hq6)
+#### Assignment တင်ရန် Link
+
+[https://forms.gle/WrEZ3QuPh2kAxtZU8](https://forms.gle/WrEZ3QuPh2kAxtZU8)
