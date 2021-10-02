@@ -12,7 +12,7 @@ script ထဲမှာ ကိုယ့်ရဲ့ roll no:, email ကို ech
 
 #### Step-2
 
-လက်ရှိ dir ရဲ့ အောက်မှာ ```week2asm``` ဆိုတဲ့ file or dir တစ်ခု ရှိမရှိကို if condition သုံးပြီး စစ်ပါ။ ရှိလျှင် directory ဟုတ်မဟုတ်ဆက်ပြီး စစ်ဆေးပါ။ directory အနေနဲ့ရှိတယ်ဆိုရင် ```directory exist``` ဟုထုတ်ပါ၊ directory မဟုတ်ဘူးဆိုရင် ```file exist``` ဟုထုတ်ပါ။ (မရှိလျှင်ဘာမှမထုတ်ရပါ)
+လက်ရှိ dir ရဲ့ အောက်မှာ ```week2asm``` ဆိုတဲ့ file or dir တစ်ခု ရှိမရှိကို if condition သုံးပြီး စစ်ပါ။ ရှိလျှင် directory ဟုတ်မဟုတ်ဆက်ပြီး စစ်ဆေးပါ။ directory အနေနဲ့ရှိတယ်ဆိုရင် ```dir exist``` ဟုထုတ်ပါ၊ directory မဟုတ်ဘူးဆိုရင် ```file exist``` ဟုထုတ်ပါ။ (မရှိလျှင်ဘာမှမထုတ်ရပါ)
 
 #### Step-3
 
