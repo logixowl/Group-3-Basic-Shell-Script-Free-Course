@@ -10,6 +10,8 @@ Group-3 Basic Shell Script Free Course Batch-1
 | Week-4 | [Week-4 Assignment](./weeks/week4.md) |
 | Week-5 | [Week-5 Quiz](./weeks/week5.md) |
 
-### Sample Data (for Education only)
+### Sample Data
+
+> for educational purposes only
 
 [Sample Data Collection](./data/README.md)
