@@ -5,7 +5,7 @@
 | 1 | ```.``` | Replaces any character |
 | 2 | ```^``` | Matches start of string/represents characters not in the string |
 | 3 | ```$``` | Matches end of string |
-| 4 | ```?``` | Matches exactly one character |
+| 4 | ```?``` | Matches 0 or 1 preceding character |
 | 5 | ```*``` | Matches 0 or more times preceding character |
 | 6 | ```+``` | Matches 1 or more times preceding character |
 | 7 | ```\``` | Represents special characters |
