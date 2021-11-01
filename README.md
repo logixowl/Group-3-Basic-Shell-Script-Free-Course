@@ -15,3 +15,8 @@ Group-3 Basic Shell Script Free Course Batch-1
 > for educational purposes only
 
 [Sample Data Collection](./data/README.md)
+
+
+### Materials
+
+[Class Material](./material/README.md)
