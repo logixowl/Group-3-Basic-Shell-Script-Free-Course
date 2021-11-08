@@ -17,3 +17,19 @@
 | 13 | ```\<``` | Matches empty string at the beginning of a word. |
 | 14 | ```\>``` | Matches empty string at the end of a word. |
 
+### အလုပ်လုပ်ပုံတူတဲ့ ပုံစံများ
+
+| No. | regex | same with | desc |
+| --- | --- | --- | --- |
+| 1 | ```[[:alnum:]]``` | ```[a-z A-Z 0-9]``` | Alphanumeric |
+| 2 | ```[[:alpha:]]``` | ```[a-z A-Z]``` | Alphabetic |
+| 3 | ```[[:blank:]]``` | - | Blank characters (spaces or tabs) |
+| 4 | ```[[:cntrl:]]``` | - | Control characters  |
+| 5 | ```[[:digit:]]``` | ```[0-9]``` | Numbers |
+| 6 | ```[[:graph:]]``` | - | Any visible characters (excludes whitespace) |
+| 7 | ```[[:lower:]]``` | ```[a-z]``` | Lowercase letters |
+| 8 | ```[[:print:]]``` | - | Printable characters (non-control characters) |
+| 9 | ```[[:punct:]]``` | - | Punctuation characters |
+| 10 | ```[[:space:]]``` | - | Whitespace |
+| 11 | ```[[:upper:]]``` | ```[A-Z]``` | Uppercase letters |
+| 12 | ```[[:xdigit:]]``` | ```[0-9 a-f A-F]``` | Hex digits |
