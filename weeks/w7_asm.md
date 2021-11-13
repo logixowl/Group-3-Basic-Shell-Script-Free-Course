@@ -32,22 +32,30 @@ Output လေးတွေကိုတော့ ဒါမျိုးထုတ်
 * case sensitive မဖြစ်ရပါဘူး၊ အကြီးဖြစ်ဖြစ်အသေးဖြစ်ဖြစ် တူရင် correct ပါ
 * line အဆုံးမှာ ပါတတ်တဲ့ space တွေကို ignore လုပ်ပါ
 
+***Assignment တင်တဲ့အခါမှာ shell file တစ်ခုတည်းကိုသာ တင်ပေးရမှာပါ ကျန်တဲ့ input, output files တွေက ထည့်ပေးစရာမလိုပါ***
+
 ##### Sample input, output (1)
 
 ```
 $ ./asm7_g3u001.sh -p hello.py -i input1.txt -o output1.txt
+Roll: G3U001
+Email: mgmg@gmail.com
 success
 ```
 ##### Sample input, output (2)
 
 ```
 $ ./asm7_g3u001.sh -o output3.py -i input3.txt -p program3.py
+Roll: G3U001
+Email: mgmg@gmail.com
 wrong
 ```
 ##### Sample input, output (3)
 
 ```
 $ ./asm7_g3u001.sh -p program4.py -i input4.txt -o output4.txt
+Roll: G3U001
+Email: mgmg@gmail.com
 error
 ```
 
