@@ -1,6 +1,6 @@
-# Find Command in Linux
+# Scheduling in Linux
 
-## Find CheatSheet
+## Crontab
 
 ### Usage & Example
 ```bash
@@ -32,7 +32,7 @@ crontab -e
 crontab -u mgmg -e
 ```
 
-### Examples 
+### Cheatsheet 
 ```bash
 * * * * * CMD
 # run CMD every minute
