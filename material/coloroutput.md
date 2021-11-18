@@ -44,8 +44,11 @@ echo "$(tput setaf 5)Logix$(tput bold)$(tput smul)Owl"
 bgred=`tput setab 1`
 yellow=`tput setaf 3`
 reset=`tput sgr0`
-echo "${yellow}yellow ${bgred}in red bg${reset}"
+echo "${yellow}yellow ${bgred}in red bg${reset} resetted"
 ```
+
+> ```tput sgr0``` is used to reset text format to the terminal's default
+
 ![color_output_5](../img/color5.png)
 
 | Num | Colour |
@@ -67,3 +70,9 @@ echo "${yellow}yellow ${bgred}in red bg${reset}"
 | ```tput rmul``` | Disable underline |
 | ```tput bel``` |  Play a bell |
 | ```tput sgr0``` | Reset text format to the terminal's default |
+
+### Your homework is
+
+To print like that
+
+![color_output_6](../img/color6.png)
